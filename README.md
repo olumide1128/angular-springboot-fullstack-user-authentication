@@ -8,6 +8,6 @@ This is a full stack session based user authentication system created using Angu
 
 ![](https://github.com/olumide1128/angular-springboot-fullstack-user-authentication/blob/master/sreenshots/signin.png?raw=true)
 
-## Sign out
+## Register
 
 ![](https://github.com/olumide1128/angular-springboot-fullstack-user-authentication/blob/master/sreenshots/signup.png?raw=true)
